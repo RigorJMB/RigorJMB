@@ -1,7 +1,10 @@
-### 🫣![Visitor Count](https://komarev.com/ghpvc/?username=RigorJMB-debug&label=Visitors&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RigorJMB-debug&label=Visitors&color=0e75b6&style=flat" />
+</p>
+
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/domingomiguelito17-debug/domingomiguelito17-debug/main/surprised-cat-meme-0ddlm3pt54hwa1rx.png" width="300">
+  <img src="https://github.com/RigorJMB/RigorJMB/blob/main/denji%20tada.png" width="300">
 </p>
 
 <h1 align="center">Hello 👋, I'm Rigor Joseph Baltazar</h1>
@@ -18,7 +21,7 @@
 
 - 🔭 **I am a student from Bulacan State University**
 - 🌱 **I am currently learning all sorts of coding, specifically Java**
-- ⚡ **I animate from time to time**
+- ⚡ **I animate from time to time, and I also play the piano**
 
 
 
